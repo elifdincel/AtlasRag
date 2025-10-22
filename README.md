@@ -48,12 +48,6 @@ python eval.py --eval_path eval.tsv --k 5
 - **Jenerasyon:** `google/flan-t5-base` (CPU'da çalışır), opsiyonel **Gemini 1.5**.
 - **Prompt güvenliği:** “Sadece bağlamdan yararlan, emin değilsen söyle.” kuralı.
 
-## 📊 Ekran Görüntüleri (öneri)
-- Ana sohbet ekranı
-- Kaynak listesi bloğu
-- Sidebar ayarları
-- Mini‑eval sonucu (json)
-
 ## ✅ PDF Kriterleri ile Eşleşme
 - **GitHub & README:** Bu belge + açıklamalar ✔️  
 - **Veri Seti:** WikiRAG‑TR açıklaması, nasıl kullanıldığı ✔️  
